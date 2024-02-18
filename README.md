@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/arnav-gupta-a810ba260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnav-gupta-a810ba260/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_arnav.07_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_arnav.07_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arnav090404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/arnav090404" height="30" width="40" /></a>
-<a href="https://leetcode.com/itzarnav0404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itzarnav0404/" height="30" width="40" /></a>
+<a href="https://leetcode.com/arnav090404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itzarnav0404/" height="30" width="40" /></a>
 <a href="https://discord.gg/_arnavgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_arnavgupta" height="30" width="40" /></a>
 </p>
 
