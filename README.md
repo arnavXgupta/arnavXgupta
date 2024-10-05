@@ -2,7 +2,7 @@
 
 <h3 align="center">A Third year Computer Science Undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic" alt="akshiita07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavXgupta&label=Profile%20views&color=blueviolet&style=plastic" alt="arnavXgupta" /> </p>
 <!-- &base=1000 can add when reqd &abbreviated=true-->
 
 
@@ -31,7 +31,7 @@
 <br><br>
 <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshiita07&theme=highcontrast" alt="arnavXgupta" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arnavXgupta&theme=highcontrast" alt="arnavXgupta" /></p>
 
 
 <br>
