@@ -24,7 +24,7 @@
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavXgupta&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="arnavXgupta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavXgupta&hide=jupyter%20notebook&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="arnavXgupta" /></p>
 <br>
 <br><br>
 <br><br>
