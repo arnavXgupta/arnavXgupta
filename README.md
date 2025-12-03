@@ -13,18 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavXgupta&show_icons=true&theme=radical" alt="Komal's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavXgupta&theme=radical" alt="GitHub streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavXgupta&hide=jupyter%20notebook&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/arnav-gupta-a810ba260" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
